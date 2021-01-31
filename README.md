@@ -1,4 +1,6 @@
 <img src="https://github.com/lucasalbino/lucasalbino/blob/main/img/img.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
+[![card](https://github-readme-stats.vercel.app/api?username=lucasalbino&theme=default)](https://github.com/lucasalbino/)
+[![lucasalbino](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbino&hide=html&layout=compact&theme=default)](https://github.com/lucasalbino/)
 
 ## Fala Pessoal! Eu sou o Lucas
 
