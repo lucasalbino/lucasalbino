@@ -1,8 +1,7 @@
 <img src="https://github.com/lucasalbino/lucasalbino/blob/main/img/img.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
-[![card](https://github-readme-stats.vercel.app/api?username=lucasalbino&theme=default)](https://github.com/lucasalbino/)
-[![lucasalbino](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbino&hide=html&layout=compact&theme=default)](https://github.com/lucasalbino/)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/lucasalbino/)
 
-## Fala Pessoal! Eu sou o Lucas
+## Fala Pessoal, eu sou o Lucas!
 
 <p align="left"> 	<p align="left"> 
   Sou estudande de Ciência da Computação e atualmente trabalho no <strong>Grupo iv2</strong> como <strong>Arquiteto de Soluções</strong>, mas também atuo como <strong>Desenvolvedor Front-End</strong> e <strong>UI/UX Designer</strong>. 
