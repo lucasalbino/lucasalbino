@@ -6,7 +6,7 @@
   Sou estudande de Ciência da Computação e atualmente trabalho no <strong>Grupo iv2</strong> como <strong>Arquiteto de Soluções</strong>, mas também atuo como <strong>Desenvolvedor Front-End</strong> e <strong>UI/UX Designer</strong>. 
   <br>
     
-  Nas minhas horas vagas gosto de estar estudando sobre programação e de estar desenvolvendo alguns projetos para aprimorar meus conhecimentos. 
+  Nas minhas horas vagas gosto de estar estudando sobre programação desenvolver alguns projetos para aprimorar meus conhecimentos. 
 </p>	</p>
 
 <p align="left">	<p align="left">
