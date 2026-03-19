@@ -1,28 +1,32 @@
 <img src="https://github.com/lucasalbino/lucasalbino/blob/main/img/img.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Fala Pessoal, eu sou o Lucas!
+## Fala pessoal, eu sou o Lucas 👋
 
-<p align="left"> 	<p align="left"> 
-  Sou estudande de Ciência da Computação e atualmente trabalho no <strong>Grupo iv2</strong> como <strong>Arquiteto de Soluções</strong>, mas também atuo como <strong>Desenvolvedor Front-End</strong> e <strong>UI/UX Designer</strong>. 
-  <br>
-    
-  Nas minhas horas vagas gosto de estar estudando sobre programação e desenvolver projetos para aprimorar meus conhecimentos. 
-</p>	</p>
+<p align="left">
+Sou curioso por tecnologia e desenvolvimento, sempre buscando criar aplicações e projetos pessoais que resolvem problemas do dia a dia.
 
-<p align="left">	<p align="left">
- <strong> - Conhecimentos:</strong> HTML5, CSS3, Javascript, Python e UI/UX Design.
-</p>	</p>
+Atuo como <strong>Arquiteto de Soluções</strong> na plataforma :contentReference[oaicite:0]{index=0}, com experiência em integrações, automações e modelagem de processos. No dia a dia, acabo transitando também pelo desenvolvimento, principalmente no front-end e construção de interfaces.
 
-<p align="left">	<p align="left">
-  <strong>- Ferramentas:</strong> Visual Studio Code, Adobe XD, Git e GitHub
-</p>	</p>
+Tenho explorado bastante o desenvolvimento Full Stack com JavaScript e :contentReference[oaicite:1]{index=1}, criando aplicações completas e evoluindo na construção de produtos mais escaláveis.
+</p>
 
-<p align="left">	<p align="left">
-    - Para saber mais sobre mim, basta me acompanhar nas redes sociais abaixo.
-    <br>
-    <br>
+<p align="left">
+Além disso, gosto de estudar e experimentar com <strong>Inteligência Artificial</strong>, buscando aplicar IA em soluções práticas e projetos reais.
+</p>
+
+<p align="left">
+<strong>🚀 Stack:</strong> HTML5, CSS3, JavaScript, Python, React
+</p>
+
+<p align="left">
+<strong>🛠️ Ferramentas:</strong> Visual Studio Code, Git, GitHub, Figma
+</p>
+
+<p align="left">
+Curtiu? Me acompanha por aqui 👇
+<br><br>
 
 <a href="https://www.instagram.com/luccodes/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucas-albino-9a6577180"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-</p>	</p>
+</p>
