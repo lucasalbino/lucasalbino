@@ -9,7 +9,7 @@ Tenho explorado bastante o desenvolvimento Full Stack com JavaScript e React, cr
 </p>
 
 <p align="left">
-Além disso, gosto de estudar e experimentar com <strong>Inteligência Artificial</strong>, buscando aplicar IA em soluções práticas e projetos reais.
+Além disso, gosto de estudar sobre <strong>Inteligência Artificial</strong>, buscando aplicar IA em soluções práticas e projetos reais.
 </p>
 
 <p align="left">
